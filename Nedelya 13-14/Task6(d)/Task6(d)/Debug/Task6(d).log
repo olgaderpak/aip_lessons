@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\Task6(d)\Task6(d)\Source.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\Task6(d)\Task6(d)\Source.cpp(22,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\Task6(d)\Task6(d)\Source.cpp(28,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Task6(d).vcxproj -> C:\Users\user\source\repos\Task6(d)\Debug\Task6(d).exe
